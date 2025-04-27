@@ -71,25 +71,15 @@ streamlit run app.py
 
 ## 📂 Структура проекта
 /Game-Sales-Predictor
-
 │
-
 ├── app.py                  # Streamlit приложение
-
 ├── model_training.ipynb    # Jupyter ноутбук обучения модели
-
 ├── xgb_model.pkl           # Сохранённая обученная модель
-
 ├── scaler.pkl              # Сохранённый стандартизатор
-
 ├── label_encoders.pkl      # Сохранённые LabelEncoders
-
 ├── video games sales.csv   # Датасет
-
 ├── README.md               # Описание проекта
-
 ├── requirements.txt        # Файл зависимостей
-
 └── images /
    ├── main_page.png
    └── prediction_result.png

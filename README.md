@@ -93,8 +93,10 @@ streamlit run app.py
 └── /images
 
 
+   
    ├── main_page.png
   
+   
    ├── prediction_result.png
 
 ## 👨‍💻 Автор проекта

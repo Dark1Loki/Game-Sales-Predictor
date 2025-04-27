@@ -71,6 +71,7 @@ streamlit run app.py
 
 ## 📂 Структура проекта
 /Game-Sales-Predictor
+
 │
 
 ├── app.py                  # Streamlit приложение
@@ -90,6 +91,7 @@ streamlit run app.py
 ├── requirements.txt        # Файл зависимостей
 
 └── /images
+     
      ├── main_page.png
      ├── prediction_result.png
 

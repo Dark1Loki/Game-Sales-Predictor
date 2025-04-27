@@ -36,7 +36,19 @@
 
 ---
 
-## 🚀 Как запустить проект
+# 🚀 Быстрый запуск проекта
+
+## 📚 Открыть обучение модели в Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dark1Loki/Game-Sales-Predictor/blob/main/model_training.ipynb)
+
+## 🌐 Открыть веб-приложение Streamlit
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Dark1Loki/Game-Sales-Predictor/main/app.py)
+
+---
+
+# ⚙️ Как запустить проект локально
 
 1. Клонируйте репозиторий:
 

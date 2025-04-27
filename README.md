@@ -93,8 +93,8 @@ streamlit run app.py
 └── /images
 
 
-├── main_page.png
-├── prediction_result.png
+  ├── main_page.png
+  ├── prediction_result.png
 
 ## 👨‍💻 Автор проекта
 - **Nikolay Lyashenko** | [GitHub профиль](https://github.com/Dark1Loki)

@@ -90,7 +90,7 @@ streamlit run app.py
 
 ├── requirements.txt        # Файл зависимостей
 
-└── /images
+└── images /
    ├── main_page.png
    └── prediction_result.png
 

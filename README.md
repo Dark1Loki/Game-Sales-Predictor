@@ -44,7 +44,7 @@
 
 ## 🌐 Открыть веб-приложение Streamlit
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Dark1Loki/Game-Sales-Predictor/main/app.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://game-sales-predictor-nunzj87bgqtyvwazza6f62.streamlit.app/)
 
 ---
 
